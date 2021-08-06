@@ -1,4 +1,4 @@
-name = "Jaspreet"
+name = "Jaspreet#
 email = "pablajaspreet94@gmail.com"
 slack_user = "@Jaspreet"
 biostack = "Genomics"
